@@ -1,0 +1,12 @@
+{
+  "name": "app-cat-bazaar",
+  "displayName": "app-cat-bazaar",
+  "expo": {
+    "name": "app-cat-bazaar",
+    "slug": "app-cat-bazaar",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
